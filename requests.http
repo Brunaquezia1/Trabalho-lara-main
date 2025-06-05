@@ -5,5 +5,10 @@ POST http://localhost:8000/api/tasks
 Content-Type: application/json
 
 {
-    "title": "Estudar PHP"
+    "title": "Estudar MyQL"
 }
+
+
+
+###
+DELETE  http://localhost:8000/api/tasks/5
